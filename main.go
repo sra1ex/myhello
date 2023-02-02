@@ -1,7 +1,5 @@
 package myhello
 
-
 func HolaMundo()string{
-
-	return "sdkjshsahsasa"
+	return "Nueva update v2"
 }
