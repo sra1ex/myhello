@@ -3,5 +3,5 @@ package myhello
 
 func HolaMundo()string{
 
-	return "Como estas"
+	return "Hola mundo github"
 }
